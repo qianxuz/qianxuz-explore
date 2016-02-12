@@ -1,0 +1,21 @@
+name,max,min,empty,unique
+Outcome Type,144,3,0,0
+Estimated Age,177,1,177,2
+Animal Type,221,221,0,0
+Outcome Subtype,79,1,76,1
+IntakeType,160,1,0,1
+Zip Where Placed,77,1,77,6
+Color,65,1,0,1
+Breed,191,1,191,6
+OutcomeYear,152,69,0,0
+Longitude,121,1,9,5
+Sex,117,51,0,0
+SpayNeuter,221,221,0,0
+OutcomeMonth,77,1,0,1
+Zip Where Found,121,1,9,5
+IntakeYear,152,69,0,0
+Intake Date,43,1,0,60
+Latitude,121,1,9,5
+OutcomeDate,43,1,0,67
+IntakeMonth,78,1,0,1
+Size,119,1,0,2
